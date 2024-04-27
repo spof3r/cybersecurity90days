@@ -71,4 +71,10 @@ __________
 - Search for jobs on Indeed: https://indeed.com Look for opportunities on LinkedIn: https://linkedin.com
 __________
 
+### created by
+
+- [@spof3r](https://www.github.com/spof3r)
+
+**[!]** *Leave a star if it helped you and give it a fork this repository:)*
+____________________
 **[!]** Thank you for your attention, study to create your own opportunities.
